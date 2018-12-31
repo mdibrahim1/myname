@@ -17,12 +17,12 @@
   <distributionManagement>
 
 		<repository>
-			<id>repoR</id>
-			<url>http://localhost:8080/nexus-2.14.1-01/content/repositories/repoR/</url>
+			<id>hai1</id>
+			<url>http://localhost:8081/nexus/content/repositories/hai/</url>
 		</repository>
 		<snapshotRepository>
-			<id>repoS</id>
-			<url>http://localhost:8080/nexus-2.14.1-01/content/repositories/repoS/</url>
+			<id>hello1</id>
+			<url>http://localhost:8081/nexus/content/repositories/hello/</url>
 		</snapshotRepository>		
   </distributionManagement>
 </project>
