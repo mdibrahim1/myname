@@ -17,11 +17,11 @@
   <distributionManagement>
 
 		<repository>
-			<id>hai1</id>
+			<id>hai</id>
 			<url>http://localhost:8081/nexus/content/repositories/hai/</url>
 		</repository>
 		<snapshotRepository>
-			<id>hello1</id>
+			<id>hello</id>
 			<url>http://localhost:8081/nexus/content/repositories/hello/</url>
 		</snapshotRepository>		
   </distributionManagement>
